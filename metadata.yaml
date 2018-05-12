@@ -1,0 +1,28 @@
+_repo: Chickamauga-Useless-Disastrous-Battle_36639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atkins, Smith D. (Smith Dykins)
+    birthdate: 1836
+    deathdate: 1913
+    gutenberg_agent_id: '38387'
+    url: http://www.gutenberg.org/2009/agents/38387
+description: ''
+gutenberg_issued: '2011-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36639'
+  lccn: '10027724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Chickamauga, Battle of, Ga., 1863'
+- !lcc 'E456'
+title: Chickamauga. Useless, Disastrous Battle
+url: http://www.gutenberg.org/ebooks/36639
